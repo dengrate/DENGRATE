@@ -11,27 +11,26 @@ DENGRATE is a fun, lightweight Chrome extension that replaces boring old USD pri
 
  📥 Installation
 
-1. Go to the [Chrome Web Store](#) (Link coming soon)
-2. Click **Add to Chrome**
-3. Pin the extension to your toolbar
-4. Click the 🦛 icon to activate it on Twitter
+ 1 download the zip file from the ( download the dengrate.zip ) enter in and press click raw button or the the download symbol on the righ hand side to download 
+ 
+ 2 navigate to your download and select the file and extract all of them 
+
+ 3 Open Chrome → chrome://extensions
+
+ 4 Enable Developer Mode
+
+ 5 Click Load Unpacked
+
+ 6 Select the extracted folder and voila
+
 
 ---
 
 ## 🛠️ How It Works
 
 - Scans the page for USD prices
+- 
 - Converts them to Moo Deng using a live rate
+- 
 - Replaces them visually in the browser
 
-> NOTE: This does not affect actual payments — it's visual-only.
-
----
-
-## 🔧 Development
-
-To run locally:
-
-1. Clone this repo
-```bash
-git clone https://github.com/YOUR_USERNAME/dengrate-extension.git
