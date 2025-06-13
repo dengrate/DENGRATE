@@ -1,17 +1,21 @@
-# 🦛 DENGRATE — Moo Deng Chrome Extension
+# 🦛 DENGRATE — Moo Deng price tracker Chrome Extension
 
 DENGRATE is a fun, lightweight Chrome extension that replaces boring old USD prices with Moo Deng Crypto 🦛💸
 
  🚀 Features
 
 - 💸 Replaces USD values with Moo Deng in real-time
+
 - 🐮 Works seamlessly on ALL WEBPAGES
+- 
 - 🧠 Lightweight, fast, and private
+- 
 - 🔒 No data collection — runs 100% in your browser
 
+---
  📥 Installation
 
- 1 download the zip file from the ( download the dengrate.zip ) enter in and press click raw button or the the download symbol on the righ hand side to download 
+ 1 download the zip file from the ( download the dengrate.zip ) enter in and press click raw button or the  download symbol on the right hand side to download 
  
  2 navigate to your download and select the file and extract all of them 
 
