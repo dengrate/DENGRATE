@@ -15,17 +15,17 @@ DENGRATE is a fun, lightweight Chrome extension that replaces boring old USD pri
 ---
  📥 Installation
 
- 1 download the zip file from the ( download the dengrate.zip ) enter in and press click raw button or the  download symbol on the right hand side to download 
+ 1- download the zip file from the ( download the dengrate.zip ) enter in and press click raw button or the  download symbol on the right hand side to download 
  
- 2 navigate to your download and select the file and extract all of them 
+ 2- navigate to your download and select the file and extract all of them 
 
- 3 Open Chrome → chrome://extensions
+ 3- Open Chrome → chrome://extensions
 
- 4 Enable Developer Mode
+ 4- Enable Developer Mode
 
- 5 Click Load Unpacked
+ 5- Click Load Unpacked
 
- 6 Select the extracted folder and voila
+ 6- Select the extracted folder and voila
 
 
 ---
