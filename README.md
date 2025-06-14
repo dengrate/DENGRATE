@@ -19,9 +19,9 @@ DENGRATE is a fun, lightweight Chrome extension that replaces boring old USD pri
  
  2- navigate to your download and select the file and extract all of them 
 
- 3- Open Chrome → chrome://extensions
+ 3- Open Chrome and on the top right press three dots and go to manage extemsions 
 
- 4- Enable Developer Mode
+ 4- Enable Developer Mode on top right 
 
  5- Click Load Unpacked
 
